@@ -117,6 +117,6 @@ body {
 
 #close:hover {
     background-color: red;
-    color: black
+    color: black;
     transition: all 0.2s ease;
 }
